@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Piyush Jain
 - 👀 I’m interested in ML/AI Research tasks and more fond of exploring topics.
-- 🌱 I’m currently gaining experience by tasks.
+- 🌱 I’m currently gaining experience by tasks from seniors.
 - 📫 How to reach me: piyush.jain@zymr.com
 
 <!---
